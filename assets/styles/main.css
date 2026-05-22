@@ -41,7 +41,7 @@ body,
     align-items: center;
 }
 
-hero-right img {
+.hero-right img {
     flex: 1;
 
 }
